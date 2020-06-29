@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Elastic Progress Bar</string>
+    <string name="enter_any_integer">Enter any integer</string>
+    <string name="submit">Submit</string>
 </resources>
